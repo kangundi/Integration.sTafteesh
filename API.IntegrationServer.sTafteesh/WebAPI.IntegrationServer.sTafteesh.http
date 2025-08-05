@@ -1,0 +1,6 @@
+@WebAPI.IntegrationServer.sTafteesh_HostAddress = http://localhost:5014
+
+GET {{WebAPI.IntegrationServer.sTafteesh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
